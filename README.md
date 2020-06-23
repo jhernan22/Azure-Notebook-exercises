@@ -1,1 +1,1 @@
-# Azure-Notebook-exercises
+# Azure-Notebook-exercises from MS Learn
